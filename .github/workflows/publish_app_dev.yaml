@@ -1,4 +1,4 @@
-name: app-build-action-dev
+name: App 测试版发布
 
 on:
   workflow_dispatch:

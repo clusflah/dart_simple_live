@@ -1,4 +1,4 @@
-name: app-build-action
+name: App 正式版发布
 #推送 Tag 或在 Actions 页面手动触发
 on:
   push:
